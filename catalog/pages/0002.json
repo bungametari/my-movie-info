@@ -1,0 +1,65 @@
+{
+  "movies": [
+    {
+      "id": "dear-you",
+      "slug": "dear-you",
+      "name": "Dear You",
+      "release_date": "18 June 2026",
+      "genres": [
+        "Drama"
+      ],
+      "spoken_languages": [
+        "ENG"
+      ],
+      "running_time": "N/A",
+      "subtitles": [
+        "BM"
+      ],
+      "classification": "16",
+      "director": "Lan Hongchun",
+      "cast": [
+        "Li Sitong",
+        "Wang Yantong",
+        "Wu Shaoqing",
+        "Zheng Runqi"
+      ],
+      "synopsis": "Grandma Ye Shurou from Chaoshan lives a simple life, enjoying her twilight years. Her grandson, Xiaowei, burdened by debt, secretly travels to Thailand to find his rumoured billionaire grandfather. However, Xiaowei returned with shocking news - his grandfather is long gone, and the person with whom Grandma had exchanged love letters was a complete stranger.",
+      "poster_source_url": "https://poster.gsc.com.my/2026/260610_DearYou_big.jpg",
+      "source_url": "https://www.gsc.com.my/movie/dear-you",
+      "poster_path": "posters/dear-you-0d111d4d88af9fca.jpg",
+      "poster_url": "https://raw.githubusercontent.com/bungametari/my-movie-info/main/posters/dear-you-0d111d4d88af9fca.jpg",
+      "first_seen_at": "2026-08-18T11:40:38Z"
+    },
+    {
+      "id": "toy-story-5",
+      "slug": "toy-story-5",
+      "name": "Toy Story 5",
+      "release_date": "17 June 2026",
+      "genres": [
+        "Animation"
+      ],
+      "spoken_languages": [
+        "ENG"
+      ],
+      "running_time": "N/A",
+      "subtitles": [
+        "BM"
+      ],
+      "classification": "P12",
+      "director": "McKenna Harris, Andrew Stanton",
+      "cast": [
+        "Tim Allen",
+        "Blake Clark",
+        "Tom Hanks",
+        "Joan Cusack",
+        "Greta Lee"
+      ],
+      "synopsis": "Woody, Buzz, Jessie, and the rest of the gang's jobs get exponentially harder when they go head to head with an all new threat to playtime: technology.",
+      "poster_source_url": "https://poster.gsc.com.my/2024/240811_ToyStory5_big.jpg",
+      "source_url": "https://www.gsc.com.my/movie/toy-story-5",
+      "poster_path": "posters/toy-story-5-97f003bcf09c3384.jpg",
+      "poster_url": "https://raw.githubusercontent.com/bungametari/my-movie-info/main/posters/toy-story-5-97f003bcf09c3384.jpg",
+      "first_seen_at": "2026-08-18T11:40:38Z"
+    }
+  ]
+}

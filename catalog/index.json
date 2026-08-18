@@ -1,0 +1,9 @@
+{
+  "catalog_version": "507dc74f5bc130d94b33ac1d833c4d84d754acfa075be58b8366cc654091b19e",
+  "total_movies": 27,
+  "page_size": 25,
+  "pages": [
+    "catalog/pages/0001.json",
+    "catalog/pages/0002.json"
+  ]
+}
